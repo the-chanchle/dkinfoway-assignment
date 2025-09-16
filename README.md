@@ -53,7 +53,7 @@ It allows CRUD operations on stock items, bulk insert with AG Grid, dropdowns fo
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/stock-management.git
+git clone https://github.com/the-chanchle/dkinfoway-assignment.git
 cd stock-management
 ```
 
