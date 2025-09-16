@@ -9,7 +9,7 @@ It allows CRUD operations on stock items, bulk insert with AG Grid, dropdowns fo
 
 ## 🚀 Features
 
-- 🔐 User Authentication (Laravel Passport / Sanctum)  
+- 🔐 User Authentication (Laravel Passport)  
 - 📊 Stock listing with pagination (Tabulator / AG Grid)  
 - ➕ Add New Stock with inline grid editing  
 - 📥 Bulk Insert / Save All stocks at once  
@@ -38,16 +38,14 @@ It allows CRUD operations on stock items, bulk insert with AG Grid, dropdowns fo
 
 **Backend (API)**  
 - Laravel 10  
-- Laravel Passport (Authentication)  
-- Spatie Laravel Permission (Roles & Permissions)  
+- Laravel Passport (Authentication)   
 - MySQL  
 
 **Frontend**  
 - Vue 3 (Composition API)  
 - AG Grid Vue 3  
 - Tabulator.js  
-- Axios  
-- TailwindCSS (optional)  
+- Axios
 
 ---
 
